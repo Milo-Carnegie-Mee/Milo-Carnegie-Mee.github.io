@@ -6,8 +6,8 @@ permalink: /cv/
 
 You can either:
 
-1. write a short CV directly on this page, or
-2. link to a PDF hosted in the repository.
+1. a short CV directly on this page, or
+2.  PDF hosted in the repository.
 
 Example:
 
