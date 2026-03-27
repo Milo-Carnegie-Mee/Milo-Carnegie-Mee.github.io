@@ -9,9 +9,6 @@ permalink: /projects/
 ### Systems neuroscience and evolution
 Notes and developing work on neural systems, behaviour, and biological explanation.
 
-### Meta-analysis work
-Research assistance and quantitative synthesis work.
-
 ## Technical
 
 ### Data analysis and coding
