@@ -12,4 +12,4 @@ Coulson, T. (2021). Environmental perturbations and transitions between ecologic
 
 # Philosophy
 Hidalgo, J. (2024). Parfitian or Buddhist reductionism? Revisiting a debate about personal identity. Asian Journal of Philosophy, 3(1), 33. [https://doi.org/10.1007/s44204-024-00166-7](https://doi.org/10.1007/s44204-024-00166-7)
-- this paper makes a compelling argument for hedonistic moral realism that is compatible with reductionism.
+- this paper makes a compelling argument for adopting a hedonistit moral realism that is compatible with reductionism.
