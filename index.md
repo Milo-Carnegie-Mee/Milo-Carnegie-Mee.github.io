@@ -5,7 +5,7 @@ title: Home
 
 # Milo Carnegie Mee
 
-I am interested in neuroscience, evolution, philosophy, and scientific explanation.
+I am interested in neuroscience, evolution, and philosophy.
 
 I use this site to share my research interests, writing, and projects.
 
@@ -13,8 +13,8 @@ I use this site to share my research interests, writing, and projects.
 
 - Systems neuroscience
 - Evolution and behaviour
-- Philosophy of mind and ethics
-- Scientific and philosophical writing
+- Philosophy of science, mind, and ethics
+- nature writing
 
 ## Links
 
