@@ -8,4 +8,4 @@ I studied biology at Oxford and have worked as a research assistant on meta-anal
 
 I am especially interested in how minds and organisms are structured, how behaviour emerges from biological systems, and how scientific and philosophical explanations connect.
 
-This website is a place for my research profile, writing, and selected projects.
+This website is a place.
