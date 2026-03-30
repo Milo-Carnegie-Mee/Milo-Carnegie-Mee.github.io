@@ -13,3 +13,10 @@ Coulson, T. (2021). Environmental perturbations and transitions between ecologic
 # Philosophy
 Hidalgo, J. (2024). Parfitian or Buddhist reductionism? Revisiting a debate about personal identity. Asian Journal of Philosophy, 3(1), 33. [https://doi.org/10.1007/s44204-024-00166-7](https://doi.org/10.1007/s44204-024-00166-7)
 - this paper makes a compelling argument for adopting a hedonistit moral realism that is compatible with reductionism.
+
+# Evolution of cognition and neurobiology
+A brief history of intelligence - Max Bennet
+The evolution of the sensitive soul - Simona Ginsberg and Eva Jablonka
+
+# Animal sentience
+The Edge of Sentience - Jonathan Birch
