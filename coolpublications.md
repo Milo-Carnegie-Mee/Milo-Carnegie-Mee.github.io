@@ -8,6 +8,8 @@ title: cool publications
 Coulson, T. (2021). Environmental perturbations and transitions between ecological and evolutionary equilibria: An eco-evolutionary feedback framework. _Peer Community Journal_, _1_. [https://doi.org/10.24072/pcjournal.4](https://doi.org/10.24072/pcjournal.4)
 - This paper provides a great modelling-focused overview of feedbacks between ecological and evolutionary processes.
 
+Clarke, Ellen, The Units of Life: Kinds of Individual in Biology (Oxford, 2025; online edn, Oxford Academic, 12 May 2025), https://doi.org/10.1093/9780191948008.001.0001
+
 # Neuroscience
 
 # Philosophy
