@@ -23,4 +23,4 @@ I use this site to share my research interests, writing, and projects.
 - [Writing](/writing/)
 - [CV](/cv/)
 - [GitHub](https://github.com/yourusername)
-- [Cool publications](/Cool publications/)
+- [Cool publications](/Coolpublications/)
