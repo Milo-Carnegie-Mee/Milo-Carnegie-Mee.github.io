@@ -18,5 +18,5 @@ Hidalgo, J. (2024). Parfitian or Buddhist reductionism? Revisiting a debate abou
 A brief history of intelligence - Max Bennet
 The evolution of the sensitive soul - Simona Ginsberg and Eva Jablonka
 
-# Animal sentience
+# Animal sentience and ethics
 The Edge of Sentience - Jonathan Birch
